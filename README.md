@@ -26,4 +26,6 @@
 ### Day 3
 [Brew](https://brew.sh/)
 
+[MongoDB vs MySQL](https://dzone.com/storage/temp/7327614-mongodb-vs-mysql-1.png)
+
 [MongoDB](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
