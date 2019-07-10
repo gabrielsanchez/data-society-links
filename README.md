@@ -25,3 +25,5 @@
 
 ### Day 3
 [Brew](https://brew.sh/)
+
+[MongoDB](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
