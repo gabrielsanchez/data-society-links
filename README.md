@@ -21,3 +21,7 @@
 [Design Thinking for Data Scientists](https://www.youtube.com/watch?v=bOJlAKKF3eY)
 
 [Kaggle](http://kaggle.com)
+
+
+### Day 3
+[Brew](https://brew.sh/)
