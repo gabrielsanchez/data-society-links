@@ -31,3 +31,10 @@
 [MongoDB](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
 
 [What is Hadoop?](https://www.youtube.com/watch?v=9s-vSeWej1U)
+
+## R
+
+### Day 1
+[Install R](https://cran.r-project.org/bin/macosx/)
+
+[Install R Studio](https://www.rstudio.com/)
