@@ -29,3 +29,5 @@
 [MongoDB vs MySQL](https://dzone.com/storage/temp/7327614-mongodb-vs-mysql-1.png)
 
 [MongoDB](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
+
+[What is Hadoop?](https://www.youtube.com/watch?v=9s-vSeWej1U)
